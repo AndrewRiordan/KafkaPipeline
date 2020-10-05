@@ -1,0 +1,6 @@
+{
+  "type": "record",
+  "name": "transaction",
+  "fields": [{"name":"user", "type":"int"},
+            {"name":"subreddit", "type":"string"}]
+}

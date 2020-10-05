@@ -1,3 +1,5 @@
+com/viasat/pipeline/Kafka_Consumer.class
 com/viasat/pipeline/CSVProducer.class
+com/viasat/pipeline/Kafka_Producer.class
 com/viasat/pipeline/CSVConsumer.class
 com/viasat/pipeline/Main.class
